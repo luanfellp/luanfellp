@@ -88,13 +88,13 @@ Minha trilha atual:
                  │  Kubernetes · Terraform · Prometheus · Grafana · CI/CD
                  │
 2024 – 2026      │  Analista de Infraestrutura Júnior → Smart BR
-                 │  Linux · Docker · Kubernetes · Redes MikroTik
+                 │  Linux · Docker · Kubernetes · Redes
                  │
 2024             │  Analista Técnico I → SPSCOM
                  │  Suporte N2 · Windows Server · Troubleshooting
                  │
-2015 – 2023      │  Analista de Sistemas → Ministério da Defesa
-                 │  Infraestrutura crítica · VMware · Linux · Incident Response
+2015 – 2023      │  Cabo do Exército - Analista de Infra → Ministério da Defesa
+                 │  Infraestrutura · VMware · Linux · Incident Response
 ```
 
 ---
