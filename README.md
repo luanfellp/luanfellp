@@ -24,7 +24,7 @@
 
 ## Sobre mim
 
-Trabalho com infraestrutura há quase 10 anos — de ambientes militares de missão crítica até clusters Kubernetes em produção.
+Iniciei minha trajetória com infraestrutura há quase 10 anos em ambientes militares onde aos 18 anos de idade tive minha primeira visão do que eram servidores e uma rede corporativa real.
 
 Meu foco atual é construir a base técnica para atuar como **SRE**: ambientes mais confiáveis, menos trabalho manual, falhas mais visíveis e recuperação mais rápida. Não só operar infra, mas entender *por que* ela falha e como torná-la mais resiliente.
 
