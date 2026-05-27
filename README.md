@@ -102,6 +102,7 @@ Minha trilha atual:
 
 - 🎓 Tecnólogo em Redes de Computadores — UNOPAR *(em andamento, conclusão 2029)*
 - ☁️ AWS Educate Introduction to Cloud 101
+- AWS Serverless Demonstrated
 - 🔁 Scrum Foundation Professional Certification (SFPC™)
 - 🌐 Networking Basics
 - 🛠️ Formação de Analista de Processos de Serviços de TI
