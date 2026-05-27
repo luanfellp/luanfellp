@@ -56,6 +56,7 @@ Minha trilha atual:
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 
 **Redes**
 
@@ -76,7 +77,7 @@ Minha trilha atual:
 | ☁️ Cloud | Fundamentos AWS: redes, segurança, observabilidade |
 | 📐 SRE | Conceitos de SLI/SLO, error budget, postmortems, runbooks |
 | 🤖 Automação | Redução de toil com scripts e IaC |
-| 🔭 Observabilidade | Alertas acionáveis, dashboards orientados a falhas |
+| 🔭 Observabilidade | Alertas acionáveis, dashboards orientados a falhas · Datadog (estudando) |
 
 ---
 
@@ -102,7 +103,6 @@ Minha trilha atual:
 
 - 🎓 Tecnólogo em Redes de Computadores — UNOPAR *(em andamento, conclusão 2029)*
 - ☁️ AWS Educate Introduction to Cloud 101
-- AWS Serverless Demonstrated
 - 🔁 Scrum Foundation Professional Certification (SFPC™)
 - 🌐 Networking Basics
 - 🛠️ Formação de Analista de Processos de Serviços de TI
