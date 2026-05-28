@@ -48,7 +48,6 @@ Minha trilha atual:
 **IaC & Automação**
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-0f766e?style=flat-square)
 
