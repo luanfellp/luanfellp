@@ -100,7 +100,7 @@ Minha trilha atual:
 
 ## Formação & Certificações
 
-- 🎓 Tecnólogo em Redes de Computadores — UNOPAR *(em andamento, conclusão 2029)*
+- 🎓 Tecnólogo em Redes de Computadores — Cruzeiro do Sul *(em andamento, conclusão 2027)*
 - ☁️ AWS Educate Introduction to Cloud 101
 - 🔁 Scrum Foundation Professional Certification (SFPC™)
 - 🌐 Networking Basics
